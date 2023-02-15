@@ -2,7 +2,7 @@
 
 Proyecto para la materia inteligencia artificial II 2022-2
 
-
+![Banner fine-grained classification](/assets/img/MarineGEO_logo.png "Fine-grained Classification")
 
 Autor: Henry Dario Mantilla Claro
 
